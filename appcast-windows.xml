@@ -1,8 +1,15 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
   <channel>
     <title>ASTRAL Windows Updates</title>
     <description>Most recent updates for ASTRAL</description>
     <language>en</language>
+    <item>
+      <title>Version 1.1.22</title>
+      <sparkle:version>1.1.22+10122</sparkle:version>
+      <sparkle:shortVersionString>1.1.22</sparkle:shortVersionString>
+      <pubDate>Thu, 12 Feb 2026 02:24:05 +0000</pubDate>
+      <enclosure url="https://github.com/jakeleviathan/astral-updates/releases/download/v1.1.22/ASTRAL-windows-v1.1.22-setup.exe" sparkle:os="windows" sparkle:installerArguments="/VERYSILENT /SUPPRESSMSGBOXES /NOCANCEL /NORESTART /SP-" length="11692001" type="application/octet-stream" />
+    </item>
   </channel>
 </rss>
