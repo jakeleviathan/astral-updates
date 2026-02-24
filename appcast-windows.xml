@@ -6,9 +6,9 @@
     <language>en</language>
     <item>
       <title>Version 1.1.84</title>
-      <sparkle:version>1.1.84+10184</sparkle:version>
+      <sparkle:version>1.1.84+10185</sparkle:version>
       <sparkle:shortVersionString>1.1.84</sparkle:shortVersionString>
-      <pubDate>Tue, 24 Feb 2026 07:18:58 +0000</pubDate>
+      <pubDate>Tue, 24 Feb 2026 07:22:53 +0000</pubDate>
       <enclosure url="https://github.com/jakeleviathan/astral-updates/releases/download/v1.1.84/ASTRAL-windows-v1.1.84-setup.exe" sparkle:os="windows" sparkle:installerArguments="/VERYSILENT /SUPPRESSMSGBOXES /NOCANCEL /NORESTART /SP-" length="24793743" type="application/octet-stream" />
     </item>
   </channel>
