@@ -5,11 +5,11 @@
     <description>Most recent updates for ASTRAL</description>
     <language>en</language>
     <item>
-      <title>Version 1.2.13</title>
-      <sparkle:version>1.2.13+10213</sparkle:version>
-      <sparkle:shortVersionString>1.2.13</sparkle:shortVersionString>
-      <pubDate>Wed, 25 Feb 2026 05:57:19 +0000</pubDate>
-      <enclosure url="https://github.com/jakeleviathan/astral-updates/releases/download/v1.2.13/ASTRAL-windows-v1.2.13-setup.exe" sparkle:os="windows" sparkle:installerArguments="/VERYSILENT /SUPPRESSMSGBOXES /NOCANCEL /NORESTART /SP-" length="110834627" type="application/octet-stream" />
+      <title>Version 1.2.14</title>
+      <sparkle:version>1.2.14+10214</sparkle:version>
+      <sparkle:shortVersionString>1.2.14</sparkle:shortVersionString>
+      <pubDate>Wed, 25 Feb 2026 06:09:52 +0000</pubDate>
+      <enclosure url="https://github.com/jakeleviathan/astral-updates/releases/download/v1.2.14/ASTRAL-windows-v1.2.14-setup.exe" sparkle:os="windows" sparkle:installerArguments="/VERYSILENT /SUPPRESSMSGBOXES /NOCANCEL /NORESTART /SP-" length="110839651" type="application/octet-stream" />
     </item>
   </channel>
 </rss>
